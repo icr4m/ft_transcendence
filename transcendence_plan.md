@@ -26,6 +26,8 @@
 
 ◦ Major module: Live chat.
 
+◦ Major module: Add another game with user history and matchmaking.
+
 75
 
 - AI-Algo
@@ -48,9 +50,5 @@
 ◦ Minor module: Expanding browser compatibility.
 
 ◦ Minor module: Supports multiple languages.
-
-◦ Minor module: Add accessibility features for visually impaired users.
-
-◦ Minor module: Server-Side Rendering (SSR) Integration
 
 125
